@@ -84,7 +84,7 @@ Aspiring IT professional with a passion for implementing innovative technology s
 
 ## Download My Resume
 
-You can download my complete resume [here](https://github.com/eb1mo/Bimochan-Resume/raw/main/Bimochan_Resume.pdf).
+You can download my complete resume [here](Bimochan_Resume.pdf).
 
 ---
 
